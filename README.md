@@ -1,4 +1,4 @@
 # joseparde29.github.io
-# Jose Parde
+Jose Parde
 
-# LG **brebeuf**
+LG **brebeuf**
