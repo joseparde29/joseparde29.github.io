@@ -2,3 +2,5 @@
 Jose Parde
 
 LG **brebeuf**
+| Monday | tuesday |
+| sports | study |
